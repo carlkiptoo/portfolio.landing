@@ -5,7 +5,8 @@
   font-style: gavamond;
   float: center;
 }
-p.author {
-  font-size: 12;
-  font-style: uchen;
+.author {
+  font-size: 72;
+  font-style: fantasy;
+  font-family: monospace;
 }
