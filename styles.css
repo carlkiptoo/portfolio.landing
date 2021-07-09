@@ -3,4 +3,9 @@
   background-color: white;
   align-self: center;
   font-style: gavamond;
+  float: center;
+}
+p.author {
+  font-size: 12;
+  font-style: uchen;
 }
