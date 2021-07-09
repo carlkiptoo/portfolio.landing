@@ -18,12 +18,16 @@
 }
 .background {
   background-color: inherit;
-  color: blue;
+  color: white;
 }
 .img {
   float: right;
 }
 .border {
   border: 2px solid black;
+  padding: 8px;
   background-color: pink;
+}
+.page {
+  background-color: black;
 }
