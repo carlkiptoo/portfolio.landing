@@ -1,6 +1,6 @@
 .intro {
-  color: black;
-  background-color: white;
+  color: white;
+  background-color: pink;
   align-self: center;
   font-style: gavamond;
   float: center;
@@ -12,23 +12,26 @@
 }
 .carl {
   font-family: serif;
-  background-color: black;
+  background-color: pink;
   color: white;
   background-position: center;
 }
 .background {
   background-color: inherit;
-  color: white;
+  color: black;
 }
 .img {
   float: right;
 }
 .border {
-  border: 2px solid black;
+  border: 2px solid pink;
   padding: 8px;
   background-color: pink;
 }
 .page {
   background-color: black;
   font: sans;
+}
+body {
+   font-family: sans-serif;
 }
