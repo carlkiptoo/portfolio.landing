@@ -29,7 +29,8 @@
   background-color: pink;
 }
 .page {
-  background-color: white;
+  background-image: url (../assets/background.jpg);
+  background-size: 100%;
   font: sans;
 }
 body {
