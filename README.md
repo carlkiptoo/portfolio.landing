@@ -1,5 +1,5 @@
-# {KIPTOO'S PORTFOLIO}
-## {KIPTOO CARLOS}
+# KIPTOO'S PORTFOLIO
+## KIPTOO CARLOS
 ### Description
 This webpage is a portfolio which contanins information about myself and the projects that i have been able to do. It also contains my hobbies skills and interests
 ## Setup instructions
