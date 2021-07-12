@@ -3,17 +3,17 @@
 ### Description
 This webpage is a portfolio which contanins information about myself and the projects that i have been able to do. It also contains my hobbies skills and interests
 ## Setup instructions
-* clone the repository
+* Clone the repository
 * git clone https://github.com/carlkiptoo/portfolio.landing.git
-* use favorite browser to open project
-* go through the portfolio
-* ensure device has internet access
+* Use favorite browser to open project
+* Go through the portfolio
+* Ensure device has internet access
 ## Known Bugs
 The portfolio has no bugs
 ## Technologies Used
-* html
-* css
-* bootstrap
+* HTML
+* CSS
+* Bootstrap
 ## Support and contact details
 carlos.kirui@student.moringaschool.com
 ### License
