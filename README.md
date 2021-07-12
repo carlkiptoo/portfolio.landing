@@ -11,9 +11,9 @@ This webpage is a portfolio which contanins information about myself and the pro
 ## Known Bugs
 The portfolio has no bugs
 ## Technologies Used
-html
-css
-bootstrap
+*html
+*css
+*bootstrap
 ## Support and contact details
 carlos.kirui@student.moringaschool.com
 ### License
