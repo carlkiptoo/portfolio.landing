@@ -6,6 +6,7 @@ This webpage is a portfolio which contanins information about myself and the pro
 * Clone the repository
 * git clone https://github.com/carlkiptoo/portfolio.landing.git
 * Use favorite browser to open project
+* click https://heuristic-curran-1c8249.netlify.app
 * Go through the portfolio
 * Ensure device has internet access
 ## Known Bugs
